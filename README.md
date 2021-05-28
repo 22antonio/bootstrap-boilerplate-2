@@ -22,4 +22,4 @@ GPL
 Don't
 
 ## CSS
-[Look at my cool css](./css/styls.css)
+[Look at my cool css](./css/styles.css)
